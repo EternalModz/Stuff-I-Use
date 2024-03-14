@@ -16,5 +16,6 @@ A simple place to find the tools and resources that I use to do what I do.
 - [Paint.net](https://www.getpaint.net/donate.html)
 - [PhotoPea](https://www.photopea.com/) // Best free alternative to Photoshop.
 - [Pixlr](https://pixlr.com/)
+- [BeeCut](https://beecut.com/online-watermark-remover) // An image & video watermark remover powered by AI.
 
 # MORE COMING SOON!
