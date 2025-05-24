@@ -44,3 +44,7 @@ I have matched the list as closely as possible to the products that I own. Howev
 ### [iPad Case of Choice](https://www.zugucase.com/products/ipad-pro-13-case-__gen-2024)
 
 ### [iPad Screen Protector of Choice](https://www.esrgear.com/products/ipad-pro-13-2024-paper-feel-magnetic-screen-protector-set/1253350/?set_country=us&gad_source=1&gbraid=0AAAAAC6i_KIuEpAigm6RBgDxSmlnnvlO8&gclid=CjwKCAjw3P-2BhAEEiwA3yPhwCqkA0ZP_KoIpVcwFuwBZASCiOXGEGbmOoAU6KXYiaexbocRN6pMWxoCnHsQAvD_BwE)
+
+### [Gaming Keyboard](https://www.amazon.com/Redragon-K689-PRO-Mechanical-Hot-swappable/dp/B0DK8WN5B7/ref=sr_1_3?crid=N22Z84RRA85B&dib=eyJ2IjoiMSJ9.c1vJshh4u99ES1c647su7Q.OtZIfCktviH7uEYeSLz8Y4636lCrtROX2v-BNyYl2Vs&dib_tag=se&keywords=redragon%2Bwyvern%2Bpro&qid=1748121812&sprefix=redragon%2Bwyvern%2Bpro%2Caps%2C328&sr=8-3&th=1)
+
+### [Gaming Mouse](https://a.co/d/2Wu7yXB)
