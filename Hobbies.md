@@ -69,10 +69,10 @@
 ## Apps
 
 *I use these on my iPad Pro.*
-- [Phonto](https://www.phon.to/download)
-- [BeFunky](https://www.befunky.com)
-- [Pixelcut](https://www.pixelcut.ai)
-- [Lightroom](https://lightroom.adobe.com)
+1. [Phonto](https://www.phon.to/download)
+2. [BeFunky](https://www.befunky.com)
+3. [Pixelcut](https://www.pixelcut.ai)
+4. [Lightroom](https://lightroom.adobe.com)
 
 ## Helpful Tools
 
